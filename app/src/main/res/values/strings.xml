@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OTPtesting</string>
+
+    <string name="greetings">Greetings</string>
+    <string name="welcome_to">Welcome to \nDoctor Apps</string>
+    <string name="welcome_to_our_new_platform">Welcome to our Assistance For You</string>
+    <string name="services">Just a verification and you can enjoy our Service</string>
+    <string name="get_started">Get Started</string>
+    <string name="connection_lost">Not Connected to Internet!</string>
+    <string name="error_msg_conn_lost">Oops!, Looks like your Internet is not Working.</string>
+    <string name="todo">TODO</string>
+    <string name="try_again">Try Again</string>
+    <string name="verify_your_phone_number">Verify your \nPhone number</string>
+    <string name="selected_mobile_number">We will send you an OTP \nto the number </string>
+    <string name="mobile_number">Phone Number</string>
+    <string name="next">Next</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_your_otp_here">Enter your OTP here</string>
+    <string name="otp_not_received">Didn’t you receive any code?</string>
+    <string name="resend_a_new_code">Resend a new code</string>
+    <string name="_91">+91</string>
+
+    <string name="send_otp">Send OTP</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="received_message">Received Message</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
