@@ -1,2 +1,2 @@
-# Saajha
-File sharing app
+# Auto Detect OTP
+Android app for OTP
